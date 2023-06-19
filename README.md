@@ -1,1 +1,1 @@
-# practice-maven-nexus-snaqube
+# Maven-Nexus-Sonarqube-Project
